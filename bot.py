@@ -18,7 +18,7 @@ def run_flask():
 CHANNEL_USERNAME = "@solis2001"
 CHANNEL_LINK = "https://t.me/solis2001"
 GROUP_LINK = "https://t.me/solis2002"
-WHATSAPP_LINK = "https://chat.whatsapp.com/YOUR_WHATSAPP_LINK" # ⚠️ මෙතැනට ඔබේ WhatsApp Group Link එක දාන්න
+WHATSAPP_LINK = "https://whatsapp.com/channel/0029Vb8SAPNDOQIU506xeF0N" # ⚠️ මෙතැනට ඔබේ WhatsApp Group Link එක දාන්න
 
 # 1. /start Command (ಬොට් ආරම්භ කරන විට)
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
